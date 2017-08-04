@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agba/Qt/Accelerated_CPP/5/taking_strings_apart/main.cpp
+iostream
+-
+vector
+-
+cctype
+-
+

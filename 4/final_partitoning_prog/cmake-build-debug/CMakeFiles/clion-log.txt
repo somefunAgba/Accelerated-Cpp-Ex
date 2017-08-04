@@ -1,0 +1,4 @@
+/opt/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/agba/Qt/Accelerated_CPP/4/final_partitoning_prog
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/agba/Qt/Accelerated_CPP/4/final_partitoning_prog/cmake-build-debug

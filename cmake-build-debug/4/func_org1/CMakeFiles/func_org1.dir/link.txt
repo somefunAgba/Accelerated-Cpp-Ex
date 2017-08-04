@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/func_org1.dir/main.cpp.o  -o func_org1 

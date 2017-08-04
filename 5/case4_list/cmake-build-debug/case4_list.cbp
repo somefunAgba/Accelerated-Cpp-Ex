@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="case4_list"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="case4_list">
+				<Option output="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/case4_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 case4_list"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="case4_list/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/case4_list" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 case4_list/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/5/case4_list/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/header/Student_info.h">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/header/category.h">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/header/grade.h">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/header/median.h">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/source/Student_info.cpp">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/source/category.cpp">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/source/grade.cpp">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/source/main.cpp">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/source/median.cpp">
+			<Option target="case4_list"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

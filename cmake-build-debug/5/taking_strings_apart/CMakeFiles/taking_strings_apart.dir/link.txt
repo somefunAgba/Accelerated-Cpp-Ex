@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/taking_strings_apart.dir/main.cpp.o  -o taking_strings_apart 

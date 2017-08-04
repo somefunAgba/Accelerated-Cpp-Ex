@@ -1,0 +1,3 @@
+C:/Users/SomefunAgba.PC/Accelerated_CPP/4/struct_orgdata1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SomefunAgba.PC/Accelerated_CPP/4/struct_orgdata1/cmake-build-debug/CMakeFiles/struct_orgdata1.dir
+C:/Users/SomefunAgba.PC/Accelerated_CPP/4/struct_orgdata1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

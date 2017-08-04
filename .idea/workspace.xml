@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Accelerated_CPP" targetName="putting_strings_together" />
+      <config projectName="Accelerated_CPP" targetName="func_org2" />
+      <config projectName="Accelerated_CPP" targetName="func_org1" />
+      <config projectName="Accelerated_CPP" targetName="hello" />
+      <config projectName="Accelerated_CPP" targetName="taking_strings_apart" />
+      <config projectName="Accelerated_CPP" targetName="4ass1" />
+      <config projectName="Accelerated_CPP" targetName="4ass2" />
+      <config projectName="Accelerated_CPP" targetName="4ass3" />
+      <config projectName="Accelerated_CPP" targetName="framing_strings" />
+      <config projectName="Accelerated_CPP" targetName="case4_list" />
+      <config projectName="Accelerated_CPP" targetName="ass3" />
+      <config projectName="Accelerated_CPP" targetName="ass2" />
+      <config projectName="Accelerated_CPP" targetName="ass1" />
+      <config projectName="Accelerated_CPP" targetName="3ass2" />
+      <config projectName="Accelerated_CPP" targetName="3ass1" />
+      <config projectName="Accelerated_CPP" targetName="ass6" />
+      <config projectName="Accelerated_CPP" targetName="final_partitoning_prog" />
+      <config projectName="Accelerated_CPP" targetName="ass5" />
+      <config projectName="Accelerated_CPP" targetName="3ass4" />
+      <config projectName="Accelerated_CPP" targetName="ass4" />
+      <config projectName="Accelerated_CPP" targetName="3ass3" />
+      <config projectName="Accelerated_CPP" targetName="dataTry1" />
+      <config projectName="Accelerated_CPP" targetName="dataTry2" />
+      <config projectName="Accelerated_CPP" targetName="input" />
+      <config projectName="Accelerated_CPP" targetName="case1_index_accessor" />
+      <config projectName="Accelerated_CPP" targetName="struct_orgdata1" />
+      <config projectName="Accelerated_CPP" targetName="framing_compactloop" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="682e22f8-be8c-4267-a858-622d12d95f0a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0/0.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0/hello/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0/hello/hello.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/0/hello/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/1.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/framing_strings/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/framing_strings/framing_strings.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/framing_strings/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/input/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/input/input.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1/input/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/2.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass1/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass1/ass1.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass1/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass2/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass2/ass2.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass2/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass3/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass3/ass3.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass3/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass4/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass4/ass4.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass4/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass5/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass5/ass5.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass5/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass6/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass6/ass6.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/ass6/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/framing_compactloop/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/framing_compactloop/framing_compactloop.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/framing_compactloop/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/3.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/dataTry1/dataTry1.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/dataTry1/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/dataTry2/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/dataTry2/dataTry2.pro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/dataTry2/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass1/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass1/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass2/sorts_und.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/.idea/4ass3.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/4ass3/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/final_partitoning_prog/header/grade.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/final_partitoning_prog/header/median.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/final_partitoning_prog/source/grade.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/final_partitoning_prog/source/median.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/header/Student_info.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/header/category.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/header/grade.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/header/median.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/source/Student_info.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/source/category.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/source/grade.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/source/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case1_index accessor/source/median.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/case4_list.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/dictionaries/agba.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/header/Student_info.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/header/category.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/header/grade.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/header/median.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/source/Student_info.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/source/category.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/source/grade.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/source/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/case4_list/source/median.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/dictionaries/agba.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/taking_strings_apart.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/CMakeLists.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/taking_strings_apart/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Accelerated_CPP.pro" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Compare Directories">
+    <option name="identicalVisible" value="true" />
+    <option name="differentVisible" value="true" />
+    <option name="differentInBlanksVisible" value="true" />
+    <option name="differentNonSignificantVisible" value="true" />
+    <option name="leftOnlyVisible" value="true" />
+    <option name="rightOnlyVisible" value="true" />
+    <option name="mostProbablyIdenticalVisible" value="true" />
+    <option name="probablyIdenticalLeftNewerVisible" value="true" />
+    <option name="probablyIdenticalRightNewerVisible" value="true" />
+    <option name="probablyDifferentLeftNewerVisible" value="true" />
+    <option name="probablyDifferentRightNewerVisible" value="true" />
+    <option name="javaStructureVisible" value="false" />
+    <option name="autoExcludeHidden" value="false" />
+    <option name="autoScrollFromSource" value="false" />
+    <option name="lastLeftPaths">
+      <value len="1" s0="$PROJECT_DIR$/0" />
+    </option>
+    <option name="lastRightPaths">
+      <value len="1" s0="$PROJECT_DIR$/1" />
+    </option>
+    <option name="ignoredFileMasks">
+      <value len="0" />
+    </option>
+    <option name="exportFileName" value="CompareDirectories.txt" />
+    <option name="allowedDiffMasks">
+      <value len="0" />
+    </option>
+    <option name="diffsInCommentsNonSignificant" value="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Accelerated_CPP" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5/putting_strings_together/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1548">
+              <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hello</find>
+      <find>word_temp</find>
+      <find>wd_tmp</find>
+      <find>word_bank</find>
+      <find>vector</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ass5</replace>
+      <replace>framing_compactloop</replace>
+      <replace>ass6</replace>
+      <replace>dataTry2</replace>
+      <replace>ass2</replace>
+      <replace>ass3</replace>
+      <replace>ass4</replace>
+      <replace>ass1</replace>
+      <replace>tmp_list</replace>
+      <replace>word_list</replace>
+      <replace>list</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/4/4ass1/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/Student_info.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/main.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2/ass2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/2/ass3/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/2/ass4/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/2/ass5/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/2/ass6/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/2/framing_compactloop/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/dataTry2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/3ass4/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/3ass2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/3ass1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/3ass3/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/funcs1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/3/dataTry1/main.cpp" />
+        <option value="$PROJECT_DIR$/4/func_org1/main.cpp" />
+        <option value="$PROJECT_DIR$/3/dataTry2/main.cpp" />
+        <option value="$PROJECT_DIR$/4/func_org2/main.cpp" />
+        <option value="$PROJECT_DIR$/3/3ass4/main.cpp" />
+        <option value="$PROJECT_DIR$/4/struct_orgdata1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/header/Student_info.h" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/header/median.h" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/header/grade.h" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/source/grade.cpp" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/source/median.cpp" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/source/Student_info.cpp" />
+        <option value="$PROJECT_DIR$/4/ass1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/4ass1/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/final_partitoning_prog/source/main.cpp" />
+        <option value="$PROJECT_DIR$/4/4ass1/main.cpp" />
+        <option value="$PROJECT_DIR$/4/4ass2/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/4/4ass2/sorts_und.h" />
+        <option value="$PROJECT_DIR$/4/4ass2/main.cpp" />
+        <option value="$PROJECT_DIR$/4/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/header/grade.h" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/source/grade.cpp" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/source/main.cpp" />
+        <option value="$PROJECT_DIR$/5/case4_list/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/source/category.cpp" />
+        <option value="$PROJECT_DIR$/5/case4_list/source/category.cpp" />
+        <option value="$PROJECT_DIR$/5/case1_index accessor/header/category.h" />
+        <option value="$PROJECT_DIR$/5/case4_list/header/category.h" />
+        <option value="$PROJECT_DIR$/5/case4_list/header/median.h" />
+        <option value="$PROJECT_DIR$/5/case4_list/header/Student_info.h" />
+        <option value="$PROJECT_DIR$/5/case4_list/source/Student_info.cpp" />
+        <option value="$PROJECT_DIR$/5/case4_list/source/median.cpp" />
+        <option value="$PROJECT_DIR$/5/case4_list/source/main.cpp" />
+        <option value="$PROJECT_DIR$/5/taking_strings_apart/main.cpp" />
+        <option value="$PROJECT_DIR$/5/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/5/putting_strings_together/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>C/C++</id>
+          </State>
+          <State>
+            <id>Data flow analysisC/C++</id>
+          </State>
+          <State>
+            <id>Declaration orderC/C++</id>
+          </State>
+          <State>
+            <id>FunctionsC/C++</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralC/C++</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+          <State>
+            <id>Type checksC/C++</id>
+          </State>
+          <State>
+            <id>Unused codeC/C++</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Annotator</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled/main.cpp" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/5/case4_list" />
+      <recent name="$PROJECT_DIR$/5/case1_index accessor" />
+      <recent name="$PROJECT_DIR$/5" />
+      <recent name="$PROJECT_DIR$/4/final_partitoning_prog/source" />
+      <recent name="$PROJECT_DIR$/4/funcs1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.putting_strings_together">
+    <configuration name="3ass1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="3ass1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="3ass1">
+      <envs />
+    </configuration>
+    <configuration name="3ass2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="3ass2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="3ass2">
+      <envs />
+    </configuration>
+    <configuration name="3ass3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="3ass3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="3ass3">
+      <envs />
+    </configuration>
+    <configuration name="3ass4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="3ass4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="3ass4">
+      <envs />
+    </configuration>
+    <configuration name="4ass1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="4ass1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="4ass1">
+      <envs />
+    </configuration>
+    <configuration name="4ass2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="4ass2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="4ass2">
+      <envs />
+    </configuration>
+    <configuration name="4ass3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="4ass3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="4ass3">
+      <envs />
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Accelerated_CPP" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration name="ass1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass1">
+      <envs />
+    </configuration>
+    <configuration name="ass2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass2">
+      <envs />
+    </configuration>
+    <configuration name="ass3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass3">
+      <envs />
+    </configuration>
+    <configuration name="ass4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass4">
+      <envs />
+    </configuration>
+    <configuration name="ass5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass5">
+      <envs />
+    </configuration>
+    <configuration name="ass6" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="ass6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="ass6">
+      <envs />
+    </configuration>
+    <configuration name="case1_index_accessor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="case1_index_accessor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="case1_index_accessor">
+      <envs />
+    </configuration>
+    <configuration name="case4_list" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="case4_list" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="case4_list">
+      <envs />
+    </configuration>
+    <configuration name="dataTry1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="dataTry1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="dataTry1">
+      <envs />
+    </configuration>
+    <configuration name="dataTry2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="dataTry2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="dataTry2">
+      <envs />
+    </configuration>
+    <configuration name="final_partitoning_prog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="final_partitoning_prog" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="final_partitoning_prog">
+      <envs />
+    </configuration>
+    <configuration name="framing_compactloop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="framing_compactloop" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="framing_compactloop">
+      <envs />
+    </configuration>
+    <configuration name="framing_strings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="framing_strings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="framing_strings">
+      <envs />
+    </configuration>
+    <configuration name="func_org1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="func_org1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="func_org1">
+      <envs />
+    </configuration>
+    <configuration name="func_org2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="func_org2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="func_org2">
+      <envs />
+    </configuration>
+    <configuration name="hello" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="hello" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="hello">
+      <envs />
+    </configuration>
+    <configuration name="input" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="input" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="input">
+      <envs />
+    </configuration>
+    <configuration name="putting_strings_together" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="putting_strings_together" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="putting_strings_together">
+      <envs />
+    </configuration>
+    <configuration name="struct_orgdata1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="struct_orgdata1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="struct_orgdata1">
+      <envs />
+    </configuration>
+    <configuration name="taking_strings_apart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Accelerated_CPP" TARGET_NAME="taking_strings_apart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Accelerated_CPP" RUN_TARGET_NAME="taking_strings_apart">
+      <envs />
+    </configuration>
+    <list size="28">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.hello" />
+      <item index="2" class="java.lang.String" itemvalue="Application.framing_strings" />
+      <item index="3" class="java.lang.String" itemvalue="Application.input" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ass1" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ass2" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ass3" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ass4" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ass5" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ass6" />
+      <item index="10" class="java.lang.String" itemvalue="Application.framing_compactloop" />
+      <item index="11" class="java.lang.String" itemvalue="Application.3ass1" />
+      <item index="12" class="java.lang.String" itemvalue="Application.3ass2" />
+      <item index="13" class="java.lang.String" itemvalue="Application.3ass3" />
+      <item index="14" class="java.lang.String" itemvalue="Application.3ass4" />
+      <item index="15" class="java.lang.String" itemvalue="Application.dataTry1" />
+      <item index="16" class="java.lang.String" itemvalue="Application.dataTry2" />
+      <item index="17" class="java.lang.String" itemvalue="Application.4ass1" />
+      <item index="18" class="java.lang.String" itemvalue="Application.4ass2" />
+      <item index="19" class="java.lang.String" itemvalue="Application.4ass3" />
+      <item index="20" class="java.lang.String" itemvalue="Application.final_partitoning_prog" />
+      <item index="21" class="java.lang.String" itemvalue="Application.func_org1" />
+      <item index="22" class="java.lang.String" itemvalue="Application.func_org2" />
+      <item index="23" class="java.lang.String" itemvalue="Application.struct_orgdata1" />
+      <item index="24" class="java.lang.String" itemvalue="Application.case1_index_accessor" />
+      <item index="25" class="java.lang.String" itemvalue="Application.case4_list" />
+      <item index="26" class="java.lang.String" itemvalue="Application.putting_strings_together" />
+      <item index="27" class="java.lang.String" itemvalue="Application.taking_strings_apart" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682e22f8-be8c-4267-a858-622d12d95f0a" name="Default" comment="" />
+      <created>1498696752594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498696752594</updated>
+      <workItem from="1498696756371" duration="1298000" />
+      <workItem from="1498698174646" duration="118000" />
+      <workItem from="1498698328621" duration="1217000" />
+      <workItem from="1498699577472" duration="3469000" />
+      <workItem from="1498703073017" duration="67000" />
+      <workItem from="1498703165270" duration="49000" />
+      <workItem from="1498721054759" duration="5605000" />
+      <workItem from="1498726735747" duration="3920000" />
+      <workItem from="1498754105142" duration="1162000" />
+      <workItem from="1498755428975" duration="1252000" />
+      <workItem from="1498757118363" duration="1489000" />
+      <workItem from="1498759047370" duration="4863000" />
+      <workItem from="1498775391178" duration="627000" />
+      <workItem from="1498841645819" duration="605000" />
+      <workItem from="1498973004606" duration="1116000" />
+      <workItem from="1499007436277" duration="2710000" />
+      <workItem from="1499064119110" duration="486000" />
+      <workItem from="1499296851454" duration="56000" />
+      <workItem from="1499311888593" duration="479000" />
+      <workItem from="1499330468440" duration="616000" />
+      <workItem from="1499500561630" duration="1973000" />
+      <workItem from="1499506585077" duration="63000" />
+      <workItem from="1499570229837" duration="538000" />
+      <workItem from="1499570811986" duration="1729000" />
+      <workItem from="1499575252900" duration="2211000" />
+      <workItem from="1499577926033" duration="216000" />
+      <workItem from="1499578177878" duration="913000" />
+      <workItem from="1499581164001" duration="2330000" />
+      <workItem from="1499607318897" duration="6985000" />
+      <workItem from="1499664794732" duration="7957000" />
+      <workItem from="1499676419585" duration="7078000" />
+      <workItem from="1499836731059" duration="5251000" />
+      <workItem from="1499846150508" duration="6356000" />
+      <workItem from="1499875977279" duration="3479000" />
+      <workItem from="1499923698293" duration="341000" />
+      <workItem from="1499926076755" duration="3000" />
+      <workItem from="1499933815955" duration="3863000" />
+      <workItem from="1499962264170" duration="837000" />
+      <workItem from="1500022863020" duration="1520000" />
+      <workItem from="1500182078530" duration="4553000" />
+      <workItem from="1500507527059" duration="6000" />
+      <workItem from="1500531371734" duration="6491000" />
+      <workItem from="1500604475650" duration="806000" />
+      <workItem from="1500605430350" duration="6520000" />
+      <workItem from="1501034419770" duration="338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103561000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="732" extended-state="0" />
+    <layout>
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34223706" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4800759" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3355372" sideWeight="0.5045386" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3338843" sideWeight="0.49546143" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25189108" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852808" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31735536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Compare Directories" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Flashcards" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973805" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/header/grade.cpp" />
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/header/median.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/struct_orgdata1/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="102" column="24" lean-forward="false" selection-start-line="102" selection-start-column="24" selection-end-line="102" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/ass1/main.cpp" />
+    <entry file="file://$PROJECT_DIR$/4/ass1/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/4/4ass1/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2017.1/clion64.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.CLion2017.1/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4ass1/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3ass4/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/struct_orgdata1/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3ass3/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/bits/stl_algo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="5449" column="2" lean-forward="true" selection-start-line="5449" selection-start-column="2" selection-end-line="5449" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/6/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1889">
+          <caret line="1208" column="6" lean-forward="false" selection-start-line="1208" selection-start-column="6" selection-end-line="1208" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../untitled/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4ass2/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/3ass2/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/header/Student_info.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/header/grade.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/Student_info.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" lean-forward="false" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/grade.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/median.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/source/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="7" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/final_partitoning_prog/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4ass2/sorts_und.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="36" column="5" lean-forward="false" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/4ass2/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="7" lean-forward="false" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/source/Student_info.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/source/median.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/source/grade.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/header/grade.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/source/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/source/category.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/header/category.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="77" lean-forward="false" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case1_index accessor/header/Student_info.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/header/Student_info.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/header/median.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/header/grade.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/header/category.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/source/grade.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/source/category.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-235">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/taking_strings_apart/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="38" column="80" lean-forward="false" selection-start-line="38" selection-start-column="80" selection-end-line="38" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/source/Student_info.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/source/median.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/case4_list/source/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/putting_strings_together/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="96" column="27" lean-forward="false" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agba/Qt/Accelerated_CPP/4/4ass2/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+string
+-
+sorts_und.h
+/home/agba/Qt/Accelerated_CPP/4/4ass2/sorts_und.h
+
+/home/agba/Qt/Accelerated_CPP/4/4ass2/sorts_und.h
+iostream
+-
+string
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/final_partitoning_prog.dir/main.cpp.o CMakeFiles/final_partitoning_prog.dir/header/Student_info.cpp.o  -o final_partitoning_prog 

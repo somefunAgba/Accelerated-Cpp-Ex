@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/putting_strings_together.dir/main.cpp.o  -o putting_strings_together 

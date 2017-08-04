@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agba/Qt/Accelerated_CPP/4/func_org2/main.cpp
+iostream
+-
+string
+-
+iomanip
+-
+ios
+-
+vector
+-
+algorithm
+-
+stdexcept
+-
+

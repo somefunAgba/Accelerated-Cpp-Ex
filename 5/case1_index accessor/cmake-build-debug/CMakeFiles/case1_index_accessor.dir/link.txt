@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/case1_index_accessor.dir/main.cpp.o  -o case1_index_accessor 

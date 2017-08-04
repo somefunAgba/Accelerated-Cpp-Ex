@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/struct_orgdata1.dir/main.cpp.o  -o struct_orgdata1 

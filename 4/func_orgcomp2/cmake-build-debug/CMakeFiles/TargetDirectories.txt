@@ -1,0 +1,3 @@
+/home/agba/Qt/Accelerated_CPP/4/func_org2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/agba/Qt/Accelerated_CPP/4/func_org2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/agba/Qt/Accelerated_CPP/4/func_org2/cmake-build-debug/CMakeFiles/func_org2.dir

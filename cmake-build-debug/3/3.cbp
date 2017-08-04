@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\0\;CMake Files\0\hello\;CMake Files\1\;CMake Files\1\input\;CMake Files\1\framing_strings\;CMake Files\2\;CMake Files\2\framing_compactloop\;CMake Files\2\ass1\;CMake Files\2\ass2\;CMake Files\2\ass3\;CMake Files\2\ass4\;CMake Files\2\ass5\;CMake Files\2\ass6\;CMake Files\3\;CMake Files\3\dataTry1\;CMake Files\3\dataTry2\;CMake Files\3\3ass1\;CMake Files\3\3ass2\;CMake Files\3\3ass3\;CMake Files\3\3ass4\;CMake Files\4\;CMake Files\4\func_orgcomp1\;CMake Files\4\func_orgcomp2\;CMake Files\4\struct_orgdata1\;CMake Files\4\final_partitoning_prog\;CMake Files\4\4ass1\;CMake Files\4\4ass2\;CMake Files\4\4ass3\;CMake Files\5\;CMake Files\5\case1_index accessor\;CMake Files\5\case4_list\;CMake Files\5\taking_strings_apart\;CMake Files\5\putting_strings_together\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dataTry1">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/dataTry1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 dataTry1"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dataTry1/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/dataTry1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 dataTry1/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dataTry2">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/dataTry2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 dataTry2"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dataTry2/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/dataTry2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 dataTry2/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/dataTry2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass1">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/3ass1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 3ass1"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass1/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/3ass1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 3ass1/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass1/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass2">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/3ass2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 3ass2"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass2/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/3ass2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 3ass2/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass2/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass3">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/3ass3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 3ass3"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass3/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/3ass3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 3ass3/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass4">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/3ass4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 3ass4"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3ass4/fast">
+				<Option output="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/3ass4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 3ass4/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/agba/Qt/Accelerated_CPP/cmake-build-debug/3/3ass4/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass1/main.cpp">
+			<Option target="3ass1"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass2/main.cpp">
+			<Option target="3ass2"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass3/main.cpp">
+			<Option target="3ass3"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass4/main.cpp">
+			<Option target="3ass4"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry1/main.cpp">
+			<Option target="dataTry1"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry2/main.cpp">
+			<Option target="dataTry2"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\0\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\0\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/0/hello/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\0\hello\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/0/hello/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\0\hello\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/0/hello/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\0\hello\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/input/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\input\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/input/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\input\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/input/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\input\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/framing_strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\framing_strings\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/framing_strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\framing_strings\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/1/framing_strings/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\1\framing_strings\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/framing_compactloop/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\framing_compactloop\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/framing_compactloop/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\framing_compactloop\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/framing_compactloop/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\framing_compactloop\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass5\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass5\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass5\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass6\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass6\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/2/ass6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2\ass6\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/dataTry2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\dataTry2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/3/3ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\3\3ass4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/func_orgcomp2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\func_orgcomp2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/struct_orgdata1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\struct_orgdata1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/struct_orgdata1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\struct_orgdata1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/struct_orgdata1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\struct_orgdata1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/final_partitoning_prog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\final_partitoning_prog\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/final_partitoning_prog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\final_partitoning_prog\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/final_partitoning_prog/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\final_partitoning_prog\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass1\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass2\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/4/4ass3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\4\4ass3\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case1_index accessor\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case1_index accessor\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case1_index accessor\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case4_list\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case4_list\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/case4_list/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\case4_list\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/taking_strings_apart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\taking_strings_apart\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/taking_strings_apart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\taking_strings_apart\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/taking_strings_apart/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\taking_strings_apart\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/putting_strings_together/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\putting_strings_together\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/putting_strings_together/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\putting_strings_together\"/>
+		</Unit>
+		<Unit filename="/home/agba/Qt/Accelerated_CPP/5/putting_strings_together/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\5\putting_strings_together\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

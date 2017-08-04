@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/Student_info.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/category.h
+iostream
+-
+vector
+-
+list
+-
+../header/Student_info.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/Student_info.h
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/grade.h
+iostream
+-
+../header/Student_info.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/Student_info.h
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/median.h
+vector
+-
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/source/Student_info.cpp
+../header/Student_info.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/Student_info.h
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/source/category.cpp
+../header/category.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/category.h
+../header/grade.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/grade.h
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/source/grade.cpp
+../header/grade.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/grade.h
+../header/median.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/median.h
+stdexcept
+-
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/source/main.cpp
+iostream
+-
+ios
+-
+iomanip
+-
+vector
+-
+algorithm
+-
+../header/Student_info.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/Student_info.h
+../header/grade.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/grade.h
+../header/median.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/median.h
+../header/category.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/category.h
+
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/source/median.cpp
+../header/median.h
+/home/agba/Qt/Accelerated_CPP/5/case1_index accessor/header/median.h
+stdexcept
+-
+algorithm
+-
+
